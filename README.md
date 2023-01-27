@@ -20,7 +20,7 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=tiyeume25112004&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
+### ✍️Lovely Story
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 
