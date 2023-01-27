@@ -1,11 +1,11 @@
 # 💫About Me :
-🇻🇳 I'm a data science student
+😈 I'm a data science student
 
 🐳 My favourite area is cyber security
 
 🐍 My go-to programming language is Python and Javascript, and my favourite framework is Flask. I can also do some C++ and PHP
 
-🖤 Fun fact: Im gray hacker. I will save ur site by hack it
+🖤 Fun fact: Im alone, need a cute girlfriend
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Spycio.Kon#1794) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/konchananonymous) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@spyciokon) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KonSpycio) 
