@@ -1,6 +1,6 @@
 # 💫Hello Im K0n-ch4n(Spycio)
 # 💫About Me :
-😈 I'm a data science student
+😈 I'm a data Analyze student
 
 🐳 My favourite area is cyber security
 
