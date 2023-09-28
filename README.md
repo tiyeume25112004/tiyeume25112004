@@ -4,7 +4,7 @@
 
 🐳 My favourite area is cyber security
 
-🐍 My go-to programming language is Python and PHP
+🐍 My go-to programming language is Python and Javascript
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/konchananonymous) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@spyciokon) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KonSpycio) 
 # 💻Tech Stack
