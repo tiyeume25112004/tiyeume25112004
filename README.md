@@ -1,4 +1,4 @@
-# 💫Hello Im St4in. Some guys called me Spycio and well, im happy with that
+# 💫Hello, Im k0nch4n or Spycio :3
 # 💫About Me :
 😈 I'm a Data Analysis Student
 
