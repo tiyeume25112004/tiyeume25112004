@@ -1,4 +1,4 @@
-# 💫Hello, Im k0nch4n or Spycio :3
+# 💫Hello, Im k0nch4n/Spycio :3
 # 💫About Me :
 😈 I'm a Applied Mathematics Student.
 
