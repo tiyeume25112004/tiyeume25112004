@@ -2,9 +2,9 @@
 # 💫About Me :
 😈 I'm a Applied Mathematics Student.
 
-🐳 My favourite area is cyber security, expecially webapp exploitation
+🐳 My favourite area is Cyber Security, expecially Web Exploit
 
-🐍 My go-to programming language is Python and PHP. Sometimes i also do with Javascript and Java too but not well T_T
+🐍 My go-to programming language is Python and PHP. Sometimes i also do with Javascript and Java too but not well T_T.
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/s1mpl3Love) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@spyciokon) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KonSpycio) 
 
