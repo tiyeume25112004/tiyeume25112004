@@ -3,8 +3,8 @@
 - 😈 I'm a Applied Mathematics Student.
 - 🐳 My aim is Cyber Security Professor. Im also learning Machine Learning because It is a subject at my university 
 - 🐍 My go-to programming language is Python. Sometimes i also do with Javascript, Java, CPP and PHP too but not well T_T.
+- 🎵 The favourite song named "Ta là của nhau". Well i love that lyrics, so suyy =))
 - ❤️ If we ever met, I'm glad you remember me.
-- 🎵 My favourite song named "Ta là của nhau". >_<
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/s1mpl3Love) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@spyciokon) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KonSpycio) 
 
