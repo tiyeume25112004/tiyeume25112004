@@ -1,7 +1,7 @@
 # 💫Hello, Im k0nch4n/Spycio
 ## 💫About Me :
 - 😈 I'm a Applied Mathematics Student but currently I hate math so much T_T
-- 🐳 My aim is Cyber Security Professor. Im also learning Machine Learning cuz It was a main subject 
+- 🐳 My aim is Cyber Security Professor. Im also learning Machine Learning cuz It is a main subject 
 - 🐍 The go-to programming language is Python. Sometimes i also do with Javascript, Java, CPP and PHP too but not well T_T.
 - 🎵 The favourite song named "Ta là của nhau". Well i love that lyrics, so suyy =))
 - ❤️ And yu friend, if we ever met before, I'm glad you remember me. Plz gimme a follow and star, it will make me stronger
