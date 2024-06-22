@@ -2,9 +2,9 @@
 ## 💫About Me :
 - 🫣 Hi, let me introduce myself:
   + 🥇 I am Vu Tien Dat aka Spycio, I was born in the South of Vietnam… I spent most of my time in LamDong, but now my accommodation is in … Oh you don’t need to know exactly😁. I am in my 20s, but I’m still alone and so I ask myself why? The answer maybe I’ve spent most of my time on learning things 😆 so poor me after all.
-  + 😈 I'm a Mathematics and Informatics Student but currently hate math so much T_T
-  + 🐳 My target is Cyber Security Expert. Im also learning Machine Learning cuz It is a main subject.
-  + 🎵 I had a girlfriend, and she has passed away six years ago, luv BichThy. Maybe that's reason why i dont fall in love with anyone
+  + 😈 I'm a Mathematics and Informatics Student but currently hate math so much T_T. actually i wanna be a hacker not a data analyst, who cares 😆 
+  + 🐳 My target is Cyber Security Expert. Think about someone who loves you look at which you do, your command you run, so excited. Haha
+  + 🎵 Finally I had a girlfriend, BichThy has passed away six years ago. So i decided to help everyone who are being bullied, just to feel at peace. Just only s1mp BichThy
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/s1mpl3Love) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@spyciokon) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KonSpycio) 
