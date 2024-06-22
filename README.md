@@ -1,7 +1,7 @@
 # 💫Hello, Im k0nch4n/Spycio
 ## 💫About Me :
 - 🫣 Hi, let me introduce myself:
-  + 🥇 I am Vu Tien Dat aka Spycio, I was born in the South of Vietnam… I spent most of my time in KonTum City, but now my accommodation is in … Oh you don’t need to know exactly😁. I am in my 20s, but I’m still alone and so I ask myself why? The answer maybe I’ve spent most of my time on learning things 😆 so poor me after all.
+  + 🥇 I am Vu Tien Dat aka Spycio, I was born in the South of Vietnam… I spent most of my time in LamDong, but now my accommodation is in … Oh you don’t need to know exactly😁. I am in my 20s, but I’m still alone and so I ask myself why? The answer maybe I’ve spent most of my time on learning things 😆 so poor me after all.
   + 😈 I'm a Mathematics and Informatics Student but currently hate math so much T_T
   + 🐳 My target is Cyber Security Expert. Im also learning Machine Learning cuz It is a main subject.
   + 🎵 I had a girlfriend, and she has passed away six years ago, luv BichThy. Maybe that's reason why i dont fall in love with anyone
