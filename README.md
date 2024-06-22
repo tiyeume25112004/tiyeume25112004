@@ -1,10 +1,10 @@
 # 💫Hello, Im k0nch4n/Spycio
 ## 💫About Me :
-- 😈 I'm a Mathematics and Informatics Student but currently I hate math so much T_T
-- 🐳 My aim is Cyber Security Professor. Im also learning Machine Learning cuz It is a main subject 
-- 🐍 The go-to programming language is Python. Sometimes do with Javascript, Java, CPP and PHP too but not well T_T.
-- 🎵 The favourite song named "Ta là của nhau". Well i love that lyrics, so suyy =))
-- ❤️ And you, if we ever met before, I'm glad you remember me. I dont know why you be here but just wanna say "Having a nice day to you"
+-  Hi, let me introduce myself: I am Vu Tien Dat aka Spycio, I was born in the South of Vietnam… I spent most of my time in KonTum City, but now my accommodation is in … Oh you don’t need to know exactly😁. I am in my 20s, but I’m still alone and so I ask myself why?_ The answer maybe I’ve spent most of my time on learning things 😆 so poor me after all.
+- 😈 I'm a Mathematics and Informatics Student but currently hate math so much T_T
+- 🐳 My tảeget is Cyber Security Expect. Im also learning Machine Learning cuz It is a main subject 
+- I had a girlfriend, and she has passed away six years ago, luv BichThy.
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/s1mpl3Love) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@spyciokon) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KonSpycio) 
 
@@ -16,4 +16,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tiyeume25112004&icon=8&color=9)](https://visitcount.itsvg.in)
-# I hate myself, wy not =))) So ignoring me or blocking me if you dislike. Byah
