@@ -3,7 +3,7 @@
 - 🫣 Hi, let me introduce myself:
   + 🥇 I am Vu Tien Dat aka Spycio, I was born in the South of Vietnam… I spent most of my time in GiaLai, but now my accommodation is in … Oh you don’t need to know exactly😁. I am in my 20s, but I’m still alone and so I ask myself why? The answer maybe I’ve spent most of my time on learning things 😆 so poor me after all.
   + 😈 I'm a Mathematics and Informatics Student but currently hate math so much T_T. Actually i wanna be a hacker not a DE/AE, who cares 😆 
-  + 🐳 My target is Cyber Security Expert and join in Redteam in Sun*. Think about someone who loves you look at which you do, your command you run, so excited. Haha
+  + 🐳 My target is Cyber Security Expert and join in Redteam at Sun*. Think about someone who loves you look at which you do, your command you run, so excited. Haha
   + 🎵 
 
 ## 🌐Socials
