@@ -2,7 +2,7 @@
 ## 💫About Me:
 - 🫣 Hi, let me introduce myself:
   + 🥇 I am Vu Tien Dat aka Spycio, I was born in the South of Vietnam… I spent most of my time in QuangNinh, but now my accommodation is in … Oh you don’t need to know exactly😁. I am in my 20s, but I’m still alone and so I ask myself why? The answer maybe I’ve spent most of my time on learning things 😆 so poor me after all. Actually not interested in women now 
-  + 😈 I'm a Mathematics and Informatics Student but currently hate math so much T_T. Actually i wanna be a Secer not a Dev, who cares 😆 
+  + 😈 I'm a Mathematics and Informatics Student but currently hate math T_T. Actually i wanna be a Secer more than a Dev, who cares.😆 
   + 🐳 My target is Cyber Security Expert and join in Redteam at S Company. Think about someone who loves you look at which you do, your command you run, so excited. Maybe in the future my waifu - Shiina Mashiro will go out the screen and she says "I love you" to me
   + 🎵 Nào có hứng thì code, không thì thôi. pay to work, not free
 
