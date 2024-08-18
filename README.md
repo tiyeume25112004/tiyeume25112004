@@ -1,16 +1,11 @@
 # 💫Hello, Im Spycio.Kon
 ## 💫About Me:
-### Fun fucked about me:
-
-1. I'm proud to be a wjbu.
-
-2. I used to love a girl for 6 years, and she's still the only one till now.
-
-3. Most people think I'm a taciturn man. Stupidly!
-
-4. I hacked my high school because i hated my teacher :vv
-
-5. I have never been angry to anyone.
+- 🫣 Hi, let me introduce myself:
+  + 🥇 I am Vu Tien Dat aka Spycio aka konchan, I was born in the South of Vietnam… I spent most of my time in Pleiku, but now my accommodation is in … Oh you don’t need to know exactly😁. I am in my 20s, but I’m still alone and so I ask myself why? The answer maybe I’ve spent most of my time on learning things 😆 so poor me after all. Actually not interested in women now 
+  + 😈 I'm a Mathematics and Informatics Student but currently hate math T_T
+  + 🐳 My target is Cyber Security Expert and join in Redteam at ... . Think about someone who loves you look at which you do, your command you run, so excited. Maybe in the future my waifu - Shiina Mashiro will go out the screen and she says "I love you" to me
+  + 🎵 Nào có hứng thì code, không thì thôi. pay to work, not free.
+  + Nhanh chán, đặc biệt là trong mọi tình huống, dù nó là gì đi nữa
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/s1mpl3Love) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@spyciokon) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KonSpycio) 
