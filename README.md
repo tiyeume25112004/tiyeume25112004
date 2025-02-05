@@ -1,7 +1,7 @@
 # 💫Hello, Im Spycio.Kon
 ## 💫About Me:
 - 🫣 Hi, let me introduce myself:
-  + 🥇 I am Vu Tien Dat aka Spycio aka konchan, I was born in the South of Vietnam… I spent most of my time in Pleiku, but now my accommodation is in … Oh you don’t need to know exactly😁. I am in my 20s, but I’m still alone and so I ask myself why? The answer maybe I’ve spent most of my time on learning things 😆 so poor me after all. Actually not interested in women now 
+  + 🥇 I am Vu Tien Dat aka Spycio aka konchan, I was born in the South of Vietnam… I spent most of my time in Pleiku, but now my accommodation is in … Oh you don’t need to know exactly😁. I am in my 20s, but I’m still alone and so I ask myself why? The answer maybe I’ve spent most of my time on learning things 😆 so poor me after all. Actually not interested in women now at least until im better than now
   + 😈 I'm a Mathematics and Informatics Student but currently hate math T_T
   + 🐳 My target is Cyber Security Expert and join in Redteam at ... . Think about someone who loves you look at which you do, your command you run, so excited. Maybe in the future my waifu - Shiina Mashiro will go out the screen and she says "I love you" to me. Someone though my level is project manager, cool but sr im not haha, btw i think i have good skill :DĐ
   + 🎵 Nào có hứng thì code, không thì thôi. pay for working, not free.
